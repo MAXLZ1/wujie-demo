@@ -1,0 +1,12 @@
+{
+  "name": "wujie-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm --filter \"./packages/**\" --stream run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
